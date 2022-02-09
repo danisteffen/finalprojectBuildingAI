@@ -2,9 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
-
-Living on a Prayer - Optimizing Budget for SNAP (Food Stamp) and Food Pantry Clients
+# Living on a Prayer - Optimizing Budget for SNAP (Food Stamp) and Food Pantry Clients
 
 ## Summary
 
