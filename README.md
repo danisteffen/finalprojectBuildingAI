@@ -39,7 +39,7 @@ Make people understand that the time spent planning food shopping and cooking fo
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on? 
+Integration with food blogs, Youtube channels, dietitians, medical doctors, financial advisors. 
 
 
 ## Acknowledgments
