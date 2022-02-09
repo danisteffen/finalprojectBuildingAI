@@ -6,7 +6,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 ## Summary
 
-Food insecurity is a real concern in the USA: during 2020, at least 10% of the households had food insecurity for some time of this year. There are governmental programs (county-, state-, and federal-level) dealing with it, but what sort of financial planning support the households are receiving? An app that optimizes the food choices on food pantries, aiming to save the most money on SNAP cards, would help these families to make better choices of food.
+Food insecurity is a real concern in the USA: during 2020, at least 10% of the households had food insecurity for some time of this year (https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/food-security-and-nutrition-assistance/#:~:text=In%202020%2C%2089.5%20percent%20of,from%2010.5%20percent%20in%202019. There are governmental programs (county-, state-, and federal-level) dealing with it, but what sort of financial planning support the households are receiving? An app that optimizes the food choices on food pantries, aiming to save the most money on SNAP cards, would help these families to make better choices of food.
 
 
 ## Background
